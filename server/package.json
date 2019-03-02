@@ -1,0 +1,32 @@
+{
+  "name": "macys_sfhack_server",
+  "version": "1.0.0",
+  "description": "simple server for demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_d",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherVH/macys_sfhacks_demo.git"
+  },
+  "keywords": [
+    "rest",
+    "hacking",
+    "demo"
+  ],
+  "author": "Zech and Chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherVH/macys_sfhacks_demo/issues"
+  },
+  "homepage": "https://github.com/ChristopherVH/macys_sfhacks_demo#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.16"
+  }
+}
