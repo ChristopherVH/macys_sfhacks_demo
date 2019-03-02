@@ -1,0 +1,3862 @@
+{
+    "searchinput": {
+        "searchphrase": "shoes",
+        "sortorderby": "default",
+        "perpage": 12,
+        "page": 1,
+        "inventoryassortment": "SITE",
+        "imageWidth": "164",
+        "upcimagewidth": "164",
+        "swatchimagewidth": "57",
+        "application": "SITE",
+        "device": "DESKTOP",
+        "country": "US",
+        "facetGroupsSupported": false
+    },
+    "totalpages": 729,
+    "messageFlag": false,
+    "bopsFacetFlag": true,
+    "facets": [
+        {
+            "facetname": "SPECIAL_OFFERS",
+            "displayname": "Offers",
+            "facetvalues": [
+                {
+                    "value": "Offer code REFRESH",
+                    "productcount": 3231
+                },
+                {
+                    "value": "Limited-Time Special",
+                    "productcount": 545
+                },
+                {
+                    "value": "Clearance/Closeout",
+                    "productcount": 2452
+                },
+                {
+                    "value": "Last Act",
+                    "productcount": 976
+                },
+                {
+                    "value": "Sales & Discounts",
+                    "productcount": 3911
+                }
+            ]
+        },
+        {
+            "facetname": "GENDER",
+            "displayname": "Gender",
+            "facetvalues": [
+                {
+                    "value": "Women",
+                    "productcount": 4958
+                },
+                {
+                    "value": "Men",
+                    "productcount": 1960
+                },
+                {
+                    "value": "Girls",
+                    "productcount": 993
+                },
+                {
+                    "value": "Boys",
+                    "productcount": 818
+                },
+                {
+                    "value": "Unisex",
+                    "productcount": 21
+                }
+            ]
+        },
+        {
+            "facetname": "SHOE_TYPE",
+            "displayname": "Shoe Type",
+            "facetvalues": [
+                {
+                    "value": "Accessories",
+                    "productcount": 8
+                },
+                {
+                    "value": "Basketball",
+                    "productcount": 21
+                },
+                {
+                    "value": "Boat Shoes",
+                    "productcount": 36
+                },
+                {
+                    "value": "Booties",
+                    "productcount": 687
+                },
+                {
+                    "value": "Boots",
+                    "productcount": 1570
+                },
+                {
+                    "value": "Canvas",
+                    "productcount": 50
+                },
+                {
+                    "value": "Casual Shoes",
+                    "productcount": 393
+                },
+                {
+                    "value": "Chukkas",
+                    "productcount": 70
+                },
+                {
+                    "value": "Clogs",
+                    "productcount": 50
+                },
+                {
+                    "value": "Comfort",
+                    "productcount": 145
+                },
+                {
+                    "value": "Court Classics",
+                    "productcount": 17
+                },
+                {
+                    "value": "Dress Shoes",
+                    "productcount": 437
+                },
+                {
+                    "value": "Drivers",
+                    "productcount": 38
+                },
+                {
+                    "value": "Fastening Strap",
+                    "productcount": 227
+                },
+                {
+                    "value": "Flats",
+                    "productcount": 637
+                },
+                {
+                    "value": "Flip-Flops",
+                    "productcount": 12
+                },
+                {
+                    "value": "High Tops",
+                    "productcount": 43
+                },
+                {
+                    "value": "Hiking",
+                    "productcount": 56
+                },
+                {
+                    "value": "Layette Shoes",
+                    "productcount": 95
+                },
+                {
+                    "value": "Light Up Shoes",
+                    "productcount": 47
+                },
+                {
+                    "value": "Loafers",
+                    "productcount": 225
+                },
+                {
+                    "value": "Mary Janes",
+                    "productcount": 26
+                },
+                {
+                    "value": "Mules",
+                    "productcount": 80
+                },
+                {
+                    "value": "Oxfords",
+                    "productcount": 248
+                },
+                {
+                    "value": "Pumps",
+                    "productcount": 502
+                },
+                {
+                    "value": "Running Shoes",
+                    "productcount": 181
+                },
+                {
+                    "value": "Sandals",
+                    "productcount": 1324
+                },
+                {
+                    "value": "Slides",
+                    "productcount": 9
+                },
+                {
+                    "value": "Slip On",
+                    "productcount": 105
+                },
+                {
+                    "value": "Slippers",
+                    "productcount": 183
+                },
+                {
+                    "value": "Sneakers",
+                    "productcount": 2762
+                },
+                {
+                    "value": "Water Shoes",
+                    "productcount": 18
+                },
+                {
+                    "value": "Waterproof",
+                    "productcount": 141
+                },
+                {
+                    "value": "Wedges",
+                    "productcount": 262
+                },
+                {
+                    "value": "Wing Tip Shoes",
+                    "productcount": 28
+                }
+            ],
+            "facetmoreless": "Less",
+            "facetmorelessurl": "/v4/catalog/search?searchphrase=shoes"
+        },
+        {
+            "facetname": "BRAND",
+            "displayname": "Brand",
+            "facetvalues": [
+                {
+                    "value": "adidas",
+                    "productcount": 270
+                },
+                {
+                    "value": "Calvin Klein",
+                    "productcount": 142
+                },
+                {
+                    "value": "Dockers",
+                    "productcount": 32
+                },
+                {
+                    "value": "INC International Concepts",
+                    "productcount": 129
+                },
+                {
+                    "value": "Lacoste",
+                    "productcount": 30
+                },
+                {
+                    "value": "Lauren Ralph Lauren",
+                    "productcount": 26
+                },
+                {
+                    "value": "Levi's",
+                    "productcount": 11
+                },
+                {
+                    "value": "Michael Kors",
+                    "productcount": 182
+                },
+                {
+                    "value": "Nike",
+                    "productcount": 583
+                },
+                {
+                    "value": "Polo Ralph Lauren",
+                    "productcount": 108
+                },
+                {
+                    "value": "Tommy Hilfiger",
+                    "productcount": 78
+                },
+                {
+                    "value": "Under Armour",
+                    "productcount": 42
+                },
+                {
+                    "value": "Charter Club",
+                    "productcount": 42
+                },
+                {
+                    "value": "Cole Haan",
+                    "productcount": 132
+                },
+                {
+                    "value": "Florsheim",
+                    "productcount": 42
+                },
+                {
+                    "value": "Johnston & Murphy",
+                    "productcount": 53
+                },
+                {
+                    "value": "Rockport",
+                    "productcount": 53
+                },
+                {
+                    "value": "Stacy Adams",
+                    "productcount": 61
+                },
+                {
+                    "value": "Steve Madden",
+                    "productcount": 158
+                },
+                {
+                    "value": "Aerosoles",
+                    "productcount": 96
+                },
+                {
+                    "value": "Alfani",
+                    "productcount": 88
+                },
+                {
+                    "value": "American Rag",
+                    "productcount": 39
+                },
+                {
+                    "value": "Anne Klein",
+                    "productcount": 43
+                },
+                {
+                    "value": "Bandolino",
+                    "productcount": 15
+                },
+                {
+                    "value": "Bar III",
+                    "productcount": 43
+                },
+                {
+                    "value": "BCBGeneration",
+                    "productcount": 40
+                },
+                {
+                    "value": "Betsey Johnson",
+                    "productcount": 31
+                },
+                {
+                    "value": "Born",
+                    "productcount": 39
+                },
+                {
+                    "value": "Carter's",
+                    "productcount": 78
+                },
+                {
+                    "value": "Chinese Laundry",
+                    "productcount": 5
+                },
+                {
+                    "value": "Clarks",
+                    "productcount": 134
+                },
+                {
+                    "value": "Club Room",
+                    "productcount": 2
+                },
+                {
+                    "value": "COACH",
+                    "productcount": 57
+                },
+                {
+                    "value": "DKNY",
+                    "productcount": 58
+                },
+                {
+                    "value": "Easy Spirit",
+                    "productcount": 47
+                },
+                {
+                    "value": "Enzo Angiolini",
+                    "productcount": 16
+                },
+                {
+                    "value": "Franco Sarto",
+                    "productcount": 113
+                },
+                {
+                    "value": "Frye",
+                    "productcount": 72
+                },
+                {
+                    "value": "G by GUESS",
+                    "productcount": 17
+                },
+                {
+                    "value": "Giani Bernini",
+                    "productcount": 36
+                },
+                {
+                    "value": "GUESS",
+                    "productcount": 32
+                },
+                {
+                    "value": "Hugo Boss",
+                    "productcount": 15
+                },
+                {
+                    "value": "Jessica Simpson",
+                    "productcount": 51
+                },
+                {
+                    "value": "Juicy Couture",
+                    "productcount": 1
+                },
+                {
+                    "value": "Karen Scott",
+                    "productcount": 28
+                },
+                {
+                    "value": "Kenneth Cole",
+                    "productcount": 83
+                },
+                {
+                    "value": "Kenneth Cole Reaction",
+                    "productcount": 98
+                },
+                {
+                    "value": "Lucky Brand",
+                    "productcount": 56
+                },
+                {
+                    "value": "Madden Girl",
+                    "productcount": 53
+                },
+                {
+                    "value": "Marc Fisher",
+                    "productcount": 36
+                },
+                {
+                    "value": "Naturalizer",
+                    "productcount": 205
+                },
+                {
+                    "value": "Nautica",
+                    "productcount": 32
+                },
+                {
+                    "value": "Nine West",
+                    "productcount": 113
+                },
+                {
+                    "value": "Puma",
+                    "productcount": 91
+                },
+                {
+                    "value": "Rampage",
+                    "productcount": 1
+                },
+                {
+                    "value": "Sean John",
+                    "productcount": 5
+                },
+                {
+                    "value": "Sperry",
+                    "productcount": 84
+                },
+                {
+                    "value": "Style & Co",
+                    "productcount": 81
+                },
+                {
+                    "value": "The North Face",
+                    "productcount": 20
+                },
+                {
+                    "value": "Timberland",
+                    "productcount": 53
+                },
+                {
+                    "value": "Vince Camuto",
+                    "productcount": 55
+                },
+                {
+                    "value": "White Mountain",
+                    "productcount": 45
+                },
+                {
+                    "value": "32 Degrees",
+                    "productcount": 1
+                },
+                {
+                    "value": "Adrianna Papell",
+                    "productcount": 22
+                },
+                {
+                    "value": "Adrienne Vittadini",
+                    "productcount": 11
+                },
+                {
+                    "value": "ALDO",
+                    "productcount": 20
+                },
+                {
+                    "value": "Andre Assous",
+                    "productcount": 13
+                },
+                {
+                    "value": "Anthony Veer",
+                    "productcount": 11
+                },
+                {
+                    "value": "Aqua College",
+                    "productcount": 8
+                },
+                {
+                    "value": "Armani Exchange",
+                    "productcount": 4
+                },
+                {
+                    "value": "Asics",
+                    "productcount": 47
+                },
+                {
+                    "value": "Atlas",
+                    "productcount": 1
+                },
+                {
+                    "value": "Avec Les Filles",
+                    "productcount": 1
+                },
+                {
+                    "value": "b.o.c.",
+                    "productcount": 20
+                },
+                {
+                    "value": "Baby Vision",
+                    "productcount": 15
+                },
+                {
+                    "value": "Badgley Mischka",
+                    "productcount": 49
+                },
+                {
+                    "value": "Baretraps",
+                    "productcount": 62
+                },
+                {
+                    "value": "Bass by Ron Bass",
+                    "productcount": 4
+                },
+                {
+                    "value": "BCBG",
+                    "productcount": 16
+                },
+                {
+                    "value": "BCBGMAXAZRIA",
+                    "productcount": 24
+                },
+                {
+                    "value": "BEARPAW",
+                    "productcount": 78
+                },
+                {
+                    "value": "bebe",
+                    "productcount": 8
+                },
+                {
+                    "value": "Bella Vita",
+                    "productcount": 74
+                },
+                {
+                    "value": "Birkenstock",
+                    "productcount": 2
+                },
+                {
+                    "value": "Black Diamond",
+                    "productcount": 2
+                },
+                {
+                    "value": "Blue by Betsey Johnson",
+                    "productcount": 31
+                },
+                {
+                    "value": "Bostonian",
+                    "productcount": 6
+                },
+                {
+                    "value": "Brooks",
+                    "productcount": 29
+                },
+                {
+                    "value": "Bruno Magli",
+                    "productcount": 3
+                },
+                {
+                    "value": "BuySeasons",
+                    "productcount": 1
+                },
+                {
+                    "value": "Bzees",
+                    "productcount": 25
+                },
+                {
+                    "value": "Call It Spring",
+                    "productcount": 3
+                },
+                {
+                    "value": "Callisto",
+                    "productcount": 46
+                },
+                {
+                    "value": "Calvin Klein Jeans",
+                    "productcount": 4
+                },
+                {
+                    "value": "Caparros",
+                    "productcount": 18
+                },
+                {
+                    "value": "Carlos by Carlos Santana",
+                    "productcount": 126
+                },
+                {
+                    "value": "Centennial",
+                    "productcount": 1
+                },
+                {
+                    "value": "Champion",
+                    "productcount": 31
+                },
+                {
+                    "value": "CHARLES by Charles David",
+                    "productcount": 42
+                },
+                {
+                    "value": "Circus by Sam Edelman",
+                    "productcount": 40
+                },
+                {
+                    "value": "Columbia",
+                    "productcount": 4
+                },
+                {
+                    "value": "Converse",
+                    "productcount": 139
+                },
+                {
+                    "value": "Crocs",
+                    "productcount": 20
+                },
+                {
+                    "value": "Dearfoams",
+                    "productcount": 24
+                },
+                {
+                    "value": "DEER STAGS",
+                    "productcount": 104
+                },
+                {
+                    "value": "Diem",
+                    "productcount": 2
+                },
+                {
+                    "value": "Dirty Laundry",
+                    "productcount": 4
+                },
+                {
+                    "value": "Donald Pliner",
+                    "productcount": 45
+                },
+                {
+                    "value": "Dr. Scholl's",
+                    "productcount": 121
+                },
+                {
+                    "value": "Eastland Shoe",
+                    "productcount": 30
+                },
+                {
+                    "value": "Easy Street",
+                    "productcount": 100
+                },
+                {
+                    "value": "Ecco",
+                    "productcount": 25
+                },
+                {
+                    "value": "ED Ellen Degeneres",
+                    "productcount": 26
+                },
+                {
+                    "value": "Esprit",
+                    "productcount": 12
+                },
+                {
+                    "value": "Evolv",
+                    "productcount": 5
+                },
+                {
+                    "value": "Fergalicious",
+                    "productcount": 2
+                },
+                {
+                    "value": "Fergie",
+                    "productcount": 20
+                },
+                {
+                    "value": "Fila",
+                    "productcount": 37
+                },
+                {
+                    "value": "First Impressions",
+                    "productcount": 21
+                },
+                {
+                    "value": "FitFlop",
+                    "productcount": 31
+                },
+                {
+                    "value": "Foot Petals",
+                    "productcount": 2
+                },
+                {
+                    "value": "Forever Collectibles",
+                    "productcount": 87
+                },
+                {
+                    "value": "G.H. Bass & Co.",
+                    "productcount": 6
+                },
+                {
+                    "value": "Gelert",
+                    "productcount": 9
+                },
+                {
+                    "value": "Gentle Souls",
+                    "productcount": 31
+                },
+                {
+                    "value": "Gold Toe",
+                    "productcount": 1
+                },
+                {
+                    "value": "Havaianas",
+                    "productcount": 7
+                },
+                {
+                    "value": "Heelys",
+                    "productcount": 14
+                },
+                {
+                    "value": "Hush Puppies",
+                    "productcount": 23
+                },
+                {
+                    "value": "Ideology",
+                    "productcount": 11
+                },
+                {
+                    "value": "Impo",
+                    "productcount": 15
+                },
+                {
+                    "value": "INC International Concepts® Woman",
+                    "productcount": 1
+                },
+                {
+                    "value": "indigo rd.",
+                    "productcount": 13
+                },
+                {
+                    "value": "Isotoner Signature",
+                    "productcount": 37
+                },
+                {
+                    "value": "Jack Wolfskin",
+                    "productcount": 8
+                },
+                {
+                    "value": "Jambu",
+                    "productcount": 25
+                },
+                {
+                    "value": "JBU",
+                    "productcount": 6
+                },
+                {
+                    "value": "Jewel Badgley Mischka",
+                    "productcount": 55
+                },
+                {
+                    "value": "K-Swiss",
+                    "productcount": 7
+                },
+                {
+                    "value": "Karrimor",
+                    "productcount": 43
+                },
+                {
+                    "value": "kate spade new york",
+                    "productcount": 47
+                },
+                {
+                    "value": "Katy Perry",
+                    "productcount": 54
+                },
+                {
+                    "value": "Keds",
+                    "productcount": 56
+                },
+                {
+                    "value": "Kenneth Cole New York",
+                    "productcount": 82
+                },
+                {
+                    "value": "Khombu",
+                    "productcount": 1
+                },
+                {
+                    "value": "Kidorable",
+                    "productcount": 10
+                },
+                {
+                    "value": "Koolaburra By UGG",
+                    "productcount": 6
+                },
+                {
+                    "value": "Lamo",
+                    "productcount": 50
+                },
+                {
+                    "value": "Lemon",
+                    "productcount": 13
+                },
+                {
+                    "value": "Loly in the sky",
+                    "productcount": 15
+                },
+                {
+                    "value": "Lucca Lane",
+                    "productcount": 8
+                },
+                {
+                    "value": "Mark Nason",
+                    "productcount": 21
+                },
+                {
+                    "value": "Massimo Emporio",
+                    "productcount": 7
+                },
+                {
+                    "value": "Material Girl",
+                    "productcount": 30
+                },
+                {
+                    "value": "Merrell",
+                    "productcount": 33
+                },
+                {
+                    "value": "Mezlan",
+                    "productcount": 9
+                },
+                {
+                    "value": "Mizuno",
+                    "productcount": 4
+                },
+                {
+                    "value": "MUDDYFOX",
+                    "productcount": 8
+                },
+                {
+                    "value": "Muk Luks",
+                    "productcount": 81
+                },
+                {
+                    "value": "Namoo",
+                    "productcount": 11
+                },
+                {
+                    "value": "Nanette Lepore",
+                    "productcount": 12
+                },
+                {
+                    "value": "New Balance",
+                    "productcount": 172
+                },
+                {
+                    "value": "Nina",
+                    "productcount": 150
+                },
+                {
+                    "value": "NRS",
+                    "productcount": 1
+                },
+                {
+                    "value": "O'Neill",
+                    "productcount": 6
+                },
+                {
+                    "value": "Original Penguin",
+                    "productcount": 21
+                },
+                {
+                    "value": "Osh Kosh",
+                    "productcount": 20
+                },
+                {
+                    "value": "Patricia Nash",
+                    "productcount": 22
+                },
+                {
+                    "value": "PAWZ",
+                    "productcount": 1
+                },
+                {
+                    "value": "Pony",
+                    "productcount": 2
+                },
+                {
+                    "value": "Quiksilver",
+                    "productcount": 12
+                },
+                {
+                    "value": "Reebok",
+                    "productcount": 32
+                },
+                {
+                    "value": "REEF",
+                    "productcount": 28
+                },
+                {
+                    "value": "Report",
+                    "productcount": 2
+                },
+                {
+                    "value": "Rialto",
+                    "productcount": 30
+                },
+                {
+                    "value": "Robeez",
+                    "productcount": 48
+                },
+                {
+                    "value": "Roberto Cavalli",
+                    "productcount": 7
+                },
+                {
+                    "value": "Row One",
+                    "productcount": 18
+                },
+                {
+                    "value": "Roxy",
+                    "productcount": 12
+                },
+                {
+                    "value": "Sam Edelman",
+                    "productcount": 71
+                },
+                {
+                    "value": "Saucony",
+                    "productcount": 2
+                },
+                {
+                    "value": "Seven Dials",
+                    "productcount": 18
+                },
+                {
+                    "value": "Skechers",
+                    "productcount": 356
+                },
+                {
+                    "value": "SNKR Project",
+                    "productcount": 8
+                },
+                {
+                    "value": "Sorel",
+                    "productcount": 46
+                },
+                {
+                    "value": "Soul Naturalizer",
+                    "productcount": 10
+                },
+                {
+                    "value": "Sporto",
+                    "productcount": 2
+                },
+                {
+                    "value": "Stephen Joseph",
+                    "productcount": 9
+                },
+                {
+                    "value": "STEVEN by Steve Madden",
+                    "productcount": 36
+                },
+                {
+                    "value": "Stride Rite",
+                    "productcount": 149
+                },
+                {
+                    "value": "Superdry",
+                    "productcount": 2
+                },
+                {
+                    "value": "Tallia",
+                    "productcount": 21
+                },
+                {
+                    "value": "Teva",
+                    "productcount": 21
+                },
+                {
+                    "value": "Thalia Sodi",
+                    "productcount": 35
+                },
+                {
+                    "value": "The Original Duck Boot",
+                    "productcount": 2
+                },
+                {
+                    "value": "TOMS",
+                    "productcount": 10
+                },
+                {
+                    "value": "Totes",
+                    "productcount": 3
+                },
+                {
+                    "value": "Tretorn",
+                    "productcount": 8
+                },
+                {
+                    "value": "Tubbs",
+                    "productcount": 1
+                },
+                {
+                    "value": "UGG®",
+                    "productcount": 116
+                },
+                {
+                    "value": "Unlisted",
+                    "productcount": 8
+                },
+                {
+                    "value": "VLADO",
+                    "productcount": 23
+                },
+                {
+                    "value": "Wanted",
+                    "productcount": 39
+                },
+                {
+                    "value": "Weatherproof Vintage",
+                    "productcount": 6
+                },
+                {
+                    "value": "Woolrich",
+                    "productcount": 7
+                },
+                {
+                    "value": "XOXO",
+                    "productcount": 26
+                },
+                {
+                    "value": "ZIGIny",
+                    "productcount": 12
+                }
+            ],
+            "facetmoreless": "Less",
+            "facetmorelessurl": "/v4/catalog/search?searchphrase=shoes"
+        },
+        {
+            "facetname": "WOMEN_JUNIORS_SIZE_T",
+            "displayname": "Size / Juniors",
+            "facetvalues": [
+                {
+                    "value": "7, M",
+                    "productcount": 1
+                },
+                {
+                    "value": "9, M",
+                    "productcount": 1
+                }
+            ]
+        },
+        {
+            "facetname": "WOMEN_SHOE_SIZE_T",
+            "displayname": "Size / Women's Shoe Size & Width / Size",
+            "facetvalues": [
+                {
+                    "value": "3",
+                    "productcount": 1
+                },
+                {
+                    "value": "4",
+                    "productcount": 79
+                },
+                {
+                    "value": "4.5",
+                    "productcount": 86
+                },
+                {
+                    "value": "5",
+                    "productcount": 2317
+                },
+                {
+                    "value": "5.5",
+                    "productcount": 2326
+                },
+                {
+                    "value": "6",
+                    "productcount": 3413
+                },
+                {
+                    "value": "6.5",
+                    "productcount": 3014
+                },
+                {
+                    "value": "7",
+                    "productcount": 3439
+                },
+                {
+                    "value": "7.5",
+                    "productcount": 3126
+                },
+                {
+                    "value": "8",
+                    "productcount": 3401
+                },
+                {
+                    "value": "8.5",
+                    "productcount": 2981
+                },
+                {
+                    "value": "9",
+                    "productcount": 3221
+                },
+                {
+                    "value": "9.5",
+                    "productcount": 2720
+                },
+                {
+                    "value": "10",
+                    "productcount": 3015
+                },
+                {
+                    "value": "10.5",
+                    "productcount": 295
+                },
+                {
+                    "value": "11",
+                    "productcount": 2223
+                },
+                {
+                    "value": "11.5",
+                    "productcount": 26
+                },
+                {
+                    "value": "12",
+                    "productcount": 494
+                },
+                {
+                    "value": "12.5",
+                    "productcount": 3
+                },
+                {
+                    "value": "13",
+                    "productcount": 31
+                },
+                {
+                    "value": "14",
+                    "productcount": 4
+                },
+                {
+                    "value": "15",
+                    "productcount": 4
+                },
+                {
+                    "value": "ONE SIZE",
+                    "productcount": 4
+                },
+                {
+                    "value": "S",
+                    "productcount": 34
+                },
+                {
+                    "value": "M",
+                    "productcount": 30
+                },
+                {
+                    "value": "L",
+                    "productcount": 33
+                },
+                {
+                    "value": "XL",
+                    "productcount": 38
+                }
+            ],
+            "facetmoreless": "Less",
+            "facetmorelessurl": "/v4/catalog/search?searchphrase=shoes"
+        },
+        {
+            "facetname": "WOMEN_SHOE_WIDTH_SIZE_T",
+            "displayname": "Size / Women's Shoe Size & Width / Width",
+            "facetvalues": [
+                {
+                    "value": "Narrow",
+                    "productcount": 202
+                },
+                {
+                    "value": "Wide",
+                    "productcount": 653
+                },
+                {
+                    "value": "Extra Wide",
+                    "productcount": 148
+                }
+            ]
+        },
+        {
+            "facetname": "MEN_SHOE_SIZE_T",
+            "displayname": "Size / Men's Shoe Size & Width / Size",
+            "facetvalues": [
+                {
+                    "value": "3.5",
+                    "productcount": 1
+                },
+                {
+                    "value": "4",
+                    "productcount": 3
+                },
+                {
+                    "value": "4.5",
+                    "productcount": 4
+                },
+                {
+                    "value": "5",
+                    "productcount": 15
+                },
+                {
+                    "value": "5.5",
+                    "productcount": 9
+                },
+                {
+                    "value": "6",
+                    "productcount": 33
+                },
+                {
+                    "value": "6.5",
+                    "productcount": 24
+                },
+                {
+                    "value": "7",
+                    "productcount": 810
+                },
+                {
+                    "value": "7.5",
+                    "productcount": 767
+                },
+                {
+                    "value": "8",
+                    "productcount": 1342
+                },
+                {
+                    "value": "8.5",
+                    "productcount": 1135
+                },
+                {
+                    "value": "9",
+                    "productcount": 1377
+                },
+                {
+                    "value": "9.5",
+                    "productcount": 1185
+                },
+                {
+                    "value": "10",
+                    "productcount": 1431
+                },
+                {
+                    "value": "10.5",
+                    "productcount": 1228
+                },
+                {
+                    "value": "11",
+                    "productcount": 1394
+                },
+                {
+                    "value": "11.5",
+                    "productcount": 1143
+                },
+                {
+                    "value": "12",
+                    "productcount": 1330
+                },
+                {
+                    "value": "12.5",
+                    "productcount": 7
+                },
+                {
+                    "value": "13",
+                    "productcount": 1271
+                },
+                {
+                    "value": "13.5",
+                    "productcount": 3
+                },
+                {
+                    "value": "14",
+                    "productcount": 225
+                },
+                {
+                    "value": "15",
+                    "productcount": 80
+                },
+                {
+                    "value": "16",
+                    "productcount": 33
+                },
+                {
+                    "value": "17",
+                    "productcount": 2
+                }
+            ],
+            "facetmoreless": "Less",
+            "facetmorelessurl": "/v4/catalog/search?searchphrase=shoes"
+        },
+        {
+            "facetname": "MEN_SHOE_WIDTH_SIZE_T",
+            "displayname": "Size / Men's Shoe Size & Width / Width",
+            "facetvalues": [
+                {
+                    "value": "Narrow",
+                    "productcount": 10
+                },
+                {
+                    "value": "Wide",
+                    "productcount": 183
+                },
+                {
+                    "value": "Extra Wide",
+                    "productcount": 15
+                }
+            ]
+        },
+        {
+            "facetname": "BABY_SHOE_SIZE_T",
+            "displayname": "Size / Baby Shoes",
+            "facetvalues": [
+                {
+                    "value": "0-3 Months",
+                    "productcount": 32
+                },
+                {
+                    "value": "3-6 Months",
+                    "productcount": 33
+                },
+                {
+                    "value": "6-9 Months",
+                    "productcount": 36
+                },
+                {
+                    "value": "9-12 Months",
+                    "productcount": 36
+                },
+                {
+                    "value": "12-18 Months",
+                    "productcount": 35
+                },
+                {
+                    "value": "18-24 Months",
+                    "productcount": 32
+                },
+                {
+                    "value": "0",
+                    "productcount": 16
+                },
+                {
+                    "value": "1",
+                    "productcount": 29
+                },
+                {
+                    "value": "2",
+                    "productcount": 49
+                },
+                {
+                    "value": "3",
+                    "productcount": 68
+                },
+                {
+                    "value": "4",
+                    "productcount": 72
+                },
+                {
+                    "value": "XS",
+                    "productcount": 23
+                },
+                {
+                    "value": "S",
+                    "productcount": 66
+                },
+                {
+                    "value": "M",
+                    "productcount": 22
+                },
+                {
+                    "value": "L",
+                    "productcount": 5
+                }
+            ],
+            "facetmoreless": "Less",
+            "facetmorelessurl": "/v4/catalog/search?searchphrase=shoes"
+        },
+        {
+            "facetname": "TODDLER_SHOE_SIZE_T",
+            "displayname": "Size / Toddler Shoes",
+            "facetvalues": [
+                {
+                    "value": "4.5",
+                    "productcount": 59
+                },
+                {
+                    "value": "5",
+                    "productcount": 317
+                },
+                {
+                    "value": "5.5",
+                    "productcount": 78
+                },
+                {
+                    "value": "6",
+                    "productcount": 318
+                },
+                {
+                    "value": "6.5",
+                    "productcount": 52
+                },
+                {
+                    "value": "7",
+                    "productcount": 247
+                },
+                {
+                    "value": "7.5",
+                    "productcount": 54
+                },
+                {
+                    "value": "8",
+                    "productcount": 250
+                },
+                {
+                    "value": "8.5",
+                    "productcount": 54
+                },
+                {
+                    "value": "9",
+                    "productcount": 252
+                },
+                {
+                    "value": "9.5",
+                    "productcount": 56
+                },
+                {
+                    "value": "10",
+                    "productcount": 268
+                },
+                {
+                    "value": "10.5",
+                    "productcount": 59
+                }
+            ],
+            "facetmoreless": "Less",
+            "facetmorelessurl": "/v4/catalog/search?searchphrase=shoes"
+        },
+        {
+            "facetname": "LITTLE_KIDS_SHOE_SIZE_T",
+            "displayname": "Size / Little Kids' Shoes",
+            "facetvalues": [
+                {
+                    "value": "11",
+                    "productcount": 420
+                },
+                {
+                    "value": "11.5",
+                    "productcount": 87
+                },
+                {
+                    "value": "12",
+                    "productcount": 429
+                },
+                {
+                    "value": "12.5",
+                    "productcount": 87
+                },
+                {
+                    "value": "13",
+                    "productcount": 523
+                },
+                {
+                    "value": "13.5",
+                    "productcount": 95
+                },
+                {
+                    "value": "1",
+                    "productcount": 539
+                },
+                {
+                    "value": "1.5",
+                    "productcount": 200
+                },
+                {
+                    "value": "2",
+                    "productcount": 538
+                },
+                {
+                    "value": "2.5",
+                    "productcount": 209
+                },
+                {
+                    "value": "3",
+                    "productcount": 674
+                },
+                {
+                    "value": "S",
+                    "productcount": 1
+                },
+                {
+                    "value": "M",
+                    "productcount": 1
+                },
+                {
+                    "value": "L",
+                    "productcount": 1
+                }
+            ],
+            "facetmoreless": "Less",
+            "facetmorelessurl": "/v4/catalog/search?searchphrase=shoes"
+        },
+        {
+            "facetname": "BIG_KIDS_SHOE_SIZE_T",
+            "displayname": "Size / Big Kids' Shoes",
+            "facetvalues": [
+                {
+                    "value": "3.5",
+                    "productcount": 166
+                },
+                {
+                    "value": "4",
+                    "productcount": 732
+                },
+                {
+                    "value": "4.5",
+                    "productcount": 308
+                },
+                {
+                    "value": "5",
+                    "productcount": 597
+                },
+                {
+                    "value": "5.5",
+                    "productcount": 320
+                },
+                {
+                    "value": "6",
+                    "productcount": 429
+                },
+                {
+                    "value": "6.5",
+                    "productcount": 266
+                },
+                {
+                    "value": "7",
+                    "productcount": 376
+                },
+                {
+                    "value": "S",
+                    "productcount": 1
+                },
+                {
+                    "value": "M",
+                    "productcount": 1
+                },
+                {
+                    "value": "L",
+                    "productcount": 1
+                }
+            ],
+            "facetmoreless": "Less",
+            "facetmorelessurl": "/v4/catalog/search?searchphrase=shoes"
+        },
+        {
+            "facetname": "KIDS_SHOE_WIDTH_SIZE_T",
+            "displayname": "Size / Kids' Shoe Width",
+            "facetvalues": [
+                {
+                    "value": "Narrow",
+                    "productcount": 3
+                },
+                {
+                    "value": "Wide",
+                    "productcount": 217
+                },
+                {
+                    "value": "Extra Wide",
+                    "productcount": 34
+                }
+            ]
+        },
+        {
+            "facetname": "COLOR_NORMAL",
+            "displayname": "Color",
+            "facetvalues": [
+                {
+                    "value": "Black",
+                    "productcount": 4414
+                },
+                {
+                    "value": "Blue",
+                    "productcount": 1312
+                },
+                {
+                    "value": "Brown",
+                    "productcount": 1559
+                },
+                {
+                    "value": "Gold",
+                    "productcount": 395
+                },
+                {
+                    "value": "Gray",
+                    "productcount": 1032
+                },
+                {
+                    "value": "Green",
+                    "productcount": 270
+                },
+                {
+                    "value": "Ivory/Cream",
+                    "productcount": 93
+                },
+                {
+                    "value": "Multi",
+                    "productcount": 639
+                },
+                {
+                    "value": "Orange",
+                    "productcount": 114
+                },
+                {
+                    "value": "Pink",
+                    "productcount": 736
+                },
+                {
+                    "value": "Purple",
+                    "productcount": 300
+                },
+                {
+                    "value": "Red",
+                    "productcount": 646
+                },
+                {
+                    "value": "Silver",
+                    "productcount": 515
+                },
+                {
+                    "value": "Tan/Beige",
+                    "productcount": 1415
+                },
+                {
+                    "value": "White",
+                    "productcount": 924
+                },
+                {
+                    "value": "Yellow",
+                    "productcount": 132
+                }
+            ],
+            "facetmoreless": "Less",
+            "facetmorelessurl": "/v4/catalog/search?searchphrase=shoes"
+        },
+        {
+            "facetname": "PRICE",
+            "displayname": "Price",
+            "facetvalues": [
+                {
+                    "valuedisplayname": "[0 TO 49.99]",
+                    "range": {
+                        "torange": "49.99",
+                        "fromrange": "0"
+                    },
+                    "productcount": 3112
+                },
+                {
+                    "valuedisplayname": "[50 TO 100]",
+                    "range": {
+                        "torange": "100",
+                        "fromrange": "50"
+                    },
+                    "productcount": 4098
+                },
+                {
+                    "valuedisplayname": "[100 TO 250]",
+                    "range": {
+                        "torange": "250",
+                        "fromrange": "100"
+                    },
+                    "productcount": 1593
+                },
+                {
+                    "valuedisplayname": "[250 TO 500]",
+                    "range": {
+                        "torange": "500",
+                        "fromrange": "250"
+                    },
+                    "productcount": 117
+                },
+                {
+                    "valuedisplayname": "[500 TO *]",
+                    "range": {
+                        "fromrange": "500"
+                    },
+                    "productcount": 8
+                }
+            ]
+        },
+        {
+            "facetname": "CUSTRATINGS",
+            "displayname": "Customer Ratings",
+            "facetvalues": [
+                {
+                    "value": "5 stars",
+                    "productcount": 980
+                },
+                {
+                    "value": "4 stars & up",
+                    "productcount": 3302
+                },
+                {
+                    "value": "3 stars & up",
+                    "productcount": 4111
+                }
+            ]
+        },
+        {
+            "facetname": "PRICE_DISCOUNT_RANGE",
+            "displayname": "Discount Range",
+            "facetvalues": [
+                {
+                    "value": "80% off & more",
+                    "productcount": 20
+                },
+                {
+                    "value": "70% off & more",
+                    "productcount": 79
+                },
+                {
+                    "value": "60% off & more",
+                    "productcount": 488
+                },
+                {
+                    "value": "50% off & more",
+                    "productcount": 1385
+                },
+                {
+                    "value": "40% off & more",
+                    "productcount": 1932
+                },
+                {
+                    "value": "30% off & more",
+                    "productcount": 2436
+                },
+                {
+                    "value": "20% off & more",
+                    "productcount": 3215
+                }
+            ]
+        }
+    ],
+    "searchresultgroups": [
+        {
+            "totalproducts": 8741,
+            "products": {
+                "product": [
+                    {
+                        "id": 8305280,
+                        "summary": {
+                            "name": "Tommy Hilfiger Envoy Sneakers",
+                            "producttype": "SHOE",
+                            "brand": "Tommy Hilfiger",
+                            "onsale": true,
+                            "producturl": "http://www1.macys.com/shop/product/tommy-hilfiger-envoy-sneakers?ID=8305280",
+                            "iscollection": false,
+                            "available": true,
+                            "productstartdays": 16,
+                            "totalreviews": 0
+                        },
+                        "image": [
+                            {
+                                "imagetype": "PRIMARY_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/11806999_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "9/optimized/11806999_fpx",
+                                "colorized": true,
+                                "sequenceNumber": 0,
+                                "hasMoreColors": true,
+                                "numberColors": 3,
+                                "isPrimaryImage": true
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 4271237,
+                                "colornormal": "Pink",
+                                "color": "Medium Pink",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/7/optimized/11807007_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "7/optimized/11807007_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/11807008_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "8/optimized/11807008_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/11807009_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "9/optimized/11807009_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/11807010_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "0/optimized/11807010_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/11807005_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "5/optimized/11807005_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 2,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/6/optimized/11807006_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "6/optimized/11807006_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 4271235,
+                                "colornormal": "White",
+                                "color": "White",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/11807001_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "1/optimized/11807001_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/11807002_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "2/optimized/11807002_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/3/optimized/11807003_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "3/optimized/11807003_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/11807004_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "4/optimized/11807004_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/11806999_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "9/optimized/11806999_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 0,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/0/optimized/11807000_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "0/optimized/11807000_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 4271236,
+                                "colornormal": "Blue",
+                                "color": "Light Blue",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/3/optimized/11807013_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "3/optimized/11807013_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/11807015_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "5/optimized/11807015_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/11865799_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "9/optimized/11865799_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/11807011_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "1/optimized/11807011_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 1,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/2/optimized/11807012_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "2/optimized/11807012_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            }
+                        ],
+                        "price": {
+                            "sale": {
+                                "value": 63.2,
+                                "label": "Sale"
+                            },
+                            "regular": {
+                                "value": 79,
+                                "label": "Reg."
+                            },
+                            "pricetype": "Special Savings Tiered",
+                            "pricetypeid": 20,
+                            "onsale": true,
+                            "displayText": "Special Savings",
+                            "pricingPolicyText": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                            "pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=20&daysInC=17957&ID=8305280",
+                            "onEdv": false,
+                            "percentageOff": 0,
+                            "percentageOffHigh": 0
+                        },
+                        "finalPrice": {
+                            "finalPrice": 47.4,
+                            "displayFinalPrice": "Always Show",
+                            "productTypePromotion": "NONE",
+                            "promotions": [
+                                {
+                                    "promotionId": 19889996,
+                                    "global": false,
+                                    "promotionName": "SITEWIDE FC: REFRESH Sale 25%"
+                                }
+                            ]
+                        },
+                        "category": [
+                            {
+                                "id": 26499,
+                                "type": "homecategory"
+                            }
+                        ],
+                        "badges": {
+                            "promotionbadge": [
+                                "Extra 25% off: REFRESH"
+                            ],
+                            "promotionbadges": [
+                                {
+                                    "badge": "Extra 25% off: REFRESH",
+                                    "selectColor": false,
+                                    "promotionId": 19889996
+                                }
+                            ],
+                            "new": true,
+                            "Rebate": false,
+                            "onsale": true
+                        }
+                    },
+                    {
+                        "id": 7337367,
+                        "summary": {
+                            "name": "G by GUESS Oaker Slip-On Sneakers",
+                            "producttype": "SHOE",
+                            "brand": "G by GUESS",
+                            "onsale": true,
+                            "producturl": "http://www1.macys.com/shop/product/g-by-guess-oaker-slip-on-sneakers?ID=7337367",
+                            "iscollection": false,
+                            "available": true,
+                            "productstartdays": 116,
+                            "totalreviews": 0
+                        },
+                        "image": [
+                            {
+                                "imagetype": "PRIMARY_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/10890190_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "0/optimized/10890190_fpx",
+                                "colorized": true,
+                                "sequenceNumber": 0,
+                                "hasMoreColors": true,
+                                "numberColors": 3,
+                                "isPrimaryImage": true
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 3736555,
+                                "colornormal": "Black",
+                                "color": "Black",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/10890192_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "2/optimized/10890192_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/3/optimized/10890193_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "3/optimized/10890193_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/10890194_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "4/optimized/10890194_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/10890195_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "5/optimized/10890195_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/10890190_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "0/optimized/10890190_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 2,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/1/optimized/10890191_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "1/optimized/10890191_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 3736551,
+                                "colornormal": "Gray",
+                                "color": "Gray",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/10890198_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "8/optimized/10890198_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/10890199_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "9/optimized/10890199_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/10890200_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "0/optimized/10890200_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/10890201_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "1/optimized/10890201_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/10890196_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "6/optimized/10890196_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 0,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/7/optimized/10890197_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "7/optimized/10890197_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 3736553,
+                                "colornormal": "Pink",
+                                "color": "Pink",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/10890186_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "6/optimized/10890186_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/7/optimized/10890187_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "7/optimized/10890187_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/10890188_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "8/optimized/10890188_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/10890189_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "9/optimized/10890189_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/10890184_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "4/optimized/10890184_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 1,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/5/optimized/10890185_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "5/optimized/10890185_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            }
+                        ],
+                        "price": {
+                            "sale": {
+                                "value": 39.2,
+                                "label": "Sale"
+                            },
+                            "regular": {
+                                "value": 49,
+                                "label": "Reg."
+                            },
+                            "pricetype": "Special Savings Tiered",
+                            "pricetypeid": 20,
+                            "onsale": true,
+                            "displayText": "Special Savings",
+                            "pricingPolicyText": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                            "pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=20&daysInC=17957&ID=7337367",
+                            "onEdv": false,
+                            "percentageOff": 0,
+                            "percentageOffHigh": 0
+                        },
+                        "finalPrice": {
+                            "finalPrice": 29.4,
+                            "displayFinalPrice": "Always Show",
+                            "productTypePromotion": "NONE",
+                            "promotions": [
+                                {
+                                    "promotionId": 19889996,
+                                    "global": false,
+                                    "promotionName": "SITEWIDE FC: REFRESH Sale 25%"
+                                }
+                            ]
+                        },
+                        "category": [
+                            {
+                                "id": 26499,
+                                "type": "homecategory"
+                            }
+                        ],
+                        "badges": {
+                            "promotionbadge": [
+                                "Extra 25% off: REFRESH"
+                            ],
+                            "promotionbadges": [
+                                {
+                                    "badge": "Extra 25% off: REFRESH",
+                                    "selectColor": false,
+                                    "promotionId": 19889996
+                                }
+                            ],
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": true
+                        }
+                    },
+                    {
+                        "id": 8514841,
+                        "summary": {
+                            "name": "Material Girl Ossianna Sneakers, Created for Macy's",
+                            "producttype": "SHOE",
+                            "brand": "Material Girl",
+                            "onsale": true,
+                            "producturl": "http://www1.macys.com/shop/product/material-girl-ossianna-sneakers-created-for-macys?ID=8514841",
+                            "iscollection": false,
+                            "available": true,
+                            "productstartdays": 113,
+                            "totalreviews": 0
+                        },
+                        "image": [
+                            {
+                                "imagetype": "PRIMARY_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/10888190_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "0/optimized/10888190_fpx",
+                                "colorized": true,
+                                "sequenceNumber": 0,
+                                "hasMoreColors": false,
+                                "numberColors": 1,
+                                "isPrimaryImage": true
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 4338659,
+                                "colornormal": "Blue",
+                                "color": "Blue Multi",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/10888192_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "2/optimized/10888192_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/3/optimized/10888193_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "3/optimized/10888193_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/10888194_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "4/optimized/10888194_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/10888195_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "5/optimized/10888195_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/10888190_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "0/optimized/10888190_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 1,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/1/optimized/10888191_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "1/optimized/10888191_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            }
+                        ],
+                        "price": {
+                            "sale": {
+                                "value": 47.6,
+                                "label": "Sale"
+                            },
+                            "regular": {
+                                "value": 59.5,
+                                "label": "Reg."
+                            },
+                            "pricetype": "Special Savings Tiered",
+                            "pricetypeid": 20,
+                            "onsale": true,
+                            "displayText": "Special Savings",
+                            "pricingPolicyText": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                            "pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=20&daysInC=17957&ID=8514841",
+                            "onEdv": false,
+                            "percentageOff": 0,
+                            "percentageOffHigh": 0
+                        },
+                        "finalPrice": {
+                            "finalPrice": 35.7,
+                            "displayFinalPrice": "Always Show",
+                            "productTypePromotion": "NONE",
+                            "promotions": [
+                                {
+                                    "promotionId": 19889996,
+                                    "global": false,
+                                    "promotionName": "SITEWIDE FC: REFRESH Sale 25%"
+                                }
+                            ]
+                        },
+                        "category": [
+                            {
+                                "id": 17570,
+                                "type": "homecategory"
+                            }
+                        ],
+                        "badges": {
+                            "promotionbadge": [
+                                "Extra 25% off: REFRESH"
+                            ],
+                            "promotionbadges": [
+                                {
+                                    "badge": "Extra 25% off: REFRESH",
+                                    "selectColor": false,
+                                    "promotionId": 19889996
+                                }
+                            ],
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": true
+                        }
+                    },
+                    {
+                        "id": 7003011,
+                        "summary": {
+                            "name": "Sperry Women's Saltwater Quilted Duck Booties",
+                            "producttype": "SHOE",
+                            "brand": "Sperry",
+                            "onsale": true,
+                            "producturl": "http://www1.macys.com/shop/product/sperry-womens-saltwater-quilted-duck-booties?ID=7003011",
+                            "iscollection": false,
+                            "available": true,
+                            "customerrating": 4.3438,
+                            "productstartdays": 1681,
+                            "totalreviews": 32
+                        },
+                        "image": [
+                            {
+                                "imagetype": "PRIMARY_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/2952038_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "8/optimized/2952038_fpx",
+                                "colorized": true,
+                                "sequenceNumber": 0,
+                                "hasMoreColors": false,
+                                "numberColors": 1,
+                                "isPrimaryImage": true
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 3509665,
+                                "colornormal": "Black",
+                                "color": "Black Quilted",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/8171702_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "2/optimized/8171702_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/8171701_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "1/optimized/8171701_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/8171700_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "0/optimized/8171700_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/8171699_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "9/optimized/8171699_fpx",
+                                        "sequenceNumber": 4
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/2952038_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "8/optimized/2952038_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 2,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/9/optimized/2952039_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "9/optimized/2952039_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            }
+                        ],
+                        "price": {
+                            "sale": {
+                                "value": 99.99,
+                                "label": "Sale"
+                            },
+                            "regular": {
+                                "value": 120,
+                                "label": "Reg."
+                            },
+                            "pricetype": "Limited-Time Special",
+                            "pricetypeid": 24,
+                            "onsale": true,
+                            "displayText": "Limited-Time Special",
+                            "pricingPolicyText": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                            "pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=24&daysInC=17957&ID=7003011",
+                            "onEdv": false,
+                            "percentageOff": 0,
+                            "percentageOffHigh": 0
+                        },
+                        "category": [
+                            {
+                                "id": 25122,
+                                "type": "homecategory"
+                            }
+                        ],
+                        "badges": {
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": true
+                        }
+                    },
+                    {
+                        "id": 4987159,
+                        "summary": {
+                            "name": "G by GUESS Harson Wide-Calf Tall Riding Boots",
+                            "producttype": "SHOE",
+                            "brand": "G by GUESS",
+                            "onsale": true,
+                            "producturl": "http://www1.macys.com/shop/product/g-by-guess-harson-wide-calf-tall-riding-boots?ID=4987159",
+                            "iscollection": false,
+                            "available": true,
+                            "customerrating": 4.1144,
+                            "productstartdays": 596,
+                            "totalreviews": 472
+                        },
+                        "image": [
+                            {
+                                "imagetype": "PRIMARY_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/8669834_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "4/optimized/8669834_fpx",
+                                "colorized": true,
+                                "sequenceNumber": 0,
+                                "hasMoreColors": true,
+                                "numberColors": 4,
+                                "isPrimaryImage": true
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 3472167,
+                                "colornormal": "Black",
+                                "color": "Black",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/8669836_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "6/optimized/8669836_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/7/optimized/8669837_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "7/optimized/8669837_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/8669838_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "8/optimized/8669838_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/3/optimized/8669853_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "3/optimized/8669853_fpx",
+                                        "sequenceNumber": 4
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/8669834_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "4/optimized/8669834_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 3,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/5/optimized/8669835_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "5/optimized/8669835_fpx",
+                                    "sequenceNumber": 0
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 3563719,
+                                "colornormal": "Tan/Beige",
+                                "color": "Camel",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/10463928_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "8/optimized/10463928_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/10463929_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "9/optimized/10463929_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/10463930_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "0/optimized/10463930_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/10463931_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "1/optimized/10463931_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/10463926_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "6/optimized/10463926_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 4,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/7/optimized/10463927_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "7/optimized/10463927_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 3563720,
+                                "colornormal": "Multi",
+                                "color": "Black Suedette",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/10463934_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "4/optimized/10463934_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/10463935_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "5/optimized/10463935_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/10463936_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "6/optimized/10463936_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/7/optimized/10463937_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "7/optimized/10463937_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/10463932_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "2/optimized/10463932_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 5,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/3/optimized/10463933_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "3/optimized/10463933_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 3472166,
+                                "colornormal": "Brown",
+                                "color": "Brown",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/8669841_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "1/optimized/8669841_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/8669842_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "2/optimized/8669842_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/3/optimized/8669843_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "3/optimized/8669843_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/8669854_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "4/optimized/8669854_fpx",
+                                        "sequenceNumber": 4
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/8669839_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "9/optimized/8669839_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 2,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/0/optimized/8669840_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "0/optimized/8669840_fpx",
+                                    "sequenceNumber": 0
+                                }
+                            }
+                        ],
+                        "price": {
+                            "sale": {
+                                "value": 35,
+                                "label": "Sale"
+                            },
+                            "regular": {
+                                "value": 89,
+                                "label": "Reg."
+                            },
+                            "pricetype": "Limited-Time Special",
+                            "pricetypeid": 24,
+                            "onsale": true,
+                            "displayText": "Limited-Time Special",
+                            "pricingPolicyText": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                            "pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=24&daysInC=17957&ID=4987159",
+                            "onEdv": false,
+                            "percentageOff": 0,
+                            "percentageOffHigh": 0
+                        },
+                        "category": [
+                            {
+                                "id": 25122,
+                                "type": "homecategory"
+                            }
+                        ],
+                        "badges": {
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": true
+                        }
+                    },
+                    {
+                        "id": 4887074,
+                        "summary": {
+                            "name": "Alfani Men's Chris Utility Boot Created for Macy's",
+                            "producttype": "SHOE",
+                            "brand": "Alfani",
+                            "onsale": true,
+                            "producturl": "http://www1.macys.com/shop/product/alfani-mens-chris-utility-boot-created-for-macys?ID=4887074",
+                            "iscollection": false,
+                            "available": true,
+                            "customerrating": 4.4643,
+                            "productstartdays": 581,
+                            "totalreviews": 28
+                        },
+                        "image": [
+                            {
+                                "imagetype": "PRIMARY_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/8773805_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "5/optimized/8773805_fpx",
+                                "colorized": true,
+                                "sequenceNumber": 0,
+                                "hasMoreColors": true,
+                                "numberColors": 2,
+                                "isPrimaryImage": true
+                            },
+                            {
+                                "imagetype": "ADDITIONAL_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/8773808_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "8/optimized/8773808_fpx",
+                                "sequenceNumber": 0
+                            },
+                            {
+                                "imagetype": "ADDITIONAL_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/8773810_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "0/optimized/8773810_fpx",
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "imagetype": "ADDITIONAL_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/8773809_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "9/optimized/8773809_fpx",
+                                "sequenceNumber": 2
+                            },
+                            {
+                                "imagetype": "ADDITIONAL_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/8773811_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "1/optimized/8773811_fpx",
+                                "sequenceNumber": 3
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 2923394,
+                                "colornormal": "Black",
+                                "color": "Black",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/8773808_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "8/optimized/8773808_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/8773810_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "0/optimized/8773810_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/8773809_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "9/optimized/8773809_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/8773811_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "1/optimized/8773811_fpx",
+                                        "sequenceNumber": 4
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/8773805_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "5/optimized/8773805_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 0,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/2/optimized/8773812_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "2/optimized/8773812_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 3556256,
+                                "colornormal": "Brown",
+                                "color": "Brown",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/10428058_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "8/optimized/10428058_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/10428059_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "9/optimized/10428059_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/10428060_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "0/optimized/10428060_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/10428061_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "1/optimized/10428061_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/10428038_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "8/optimized/10428038_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 1,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/2/optimized/10428062_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "2/optimized/10428062_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            }
+                        ],
+                        "price": {
+                            "sale": {
+                                "value": 29.99,
+                                "label": "Sale"
+                            },
+                            "regular": {
+                                "value": 69.99,
+                                "label": "Reg."
+                            },
+                            "pricetype": "Limited-Time Special",
+                            "pricetypeid": 24,
+                            "onsale": true,
+                            "displayText": "Limited-Time Special",
+                            "pricingPolicyText": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                            "pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=24&daysInC=17957&ID=4887074",
+                            "onEdv": false,
+                            "percentageOff": 0,
+                            "percentageOffHigh": 0
+                        },
+                        "category": [
+                            {
+                                "id": 65,
+                                "type": "homecategory"
+                            }
+                        ],
+                        "badges": {
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": true
+                        }
+                    },
+                    {
+                        "id": 4382293,
+                        "summary": {
+                            "name": "Sperry Women's Saltwater Duck Booties",
+                            "producttype": "SHOE",
+                            "brand": "Sperry",
+                            "onsale": true,
+                            "producturl": "http://www1.macys.com/shop/product/sperry-womens-saltwater-duck-booties?ID=4382293",
+                            "iscollection": false,
+                            "available": true,
+                            "customerrating": 4.6862,
+                            "productstartdays": 1681,
+                            "totalreviews": 239
+                        },
+                        "image": [
+                            {
+                                "imagetype": "PRIMARY_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/2266090_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "0/optimized/2266090_fpx",
+                                "colorized": true,
+                                "sequenceNumber": 0,
+                                "hasMoreColors": false,
+                                "numberColors": 1,
+                                "isPrimaryImage": true
+                            },
+                            {
+                                "imagetype": "ADDITIONAL_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/8027534_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "4/optimized/8027534_fpx",
+                                "sequenceNumber": 0
+                            },
+                            {
+                                "imagetype": "ADDITIONAL_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/9118236_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "6/optimized/9118236_fpx",
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 2646675,
+                                "colornormal": "Brown",
+                                "color": "Tan/Dark Brown",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/8171708_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "8/optimized/8171708_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/7/optimized/8171707_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "7/optimized/8171707_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/8171706_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "6/optimized/8171706_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/8171705_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "5/optimized/8171705_fpx",
+                                        "sequenceNumber": 4
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/10079050_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "0/optimized/10079050_fpx",
+                                        "sequenceNumber": 5
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/2266090_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "0/optimized/2266090_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 1,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/9/optimized/8171709_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "9/optimized/8171709_fpx",
+                                    "sequenceNumber": 0
+                                }
+                            }
+                        ],
+                        "price": {
+                            "sale": {
+                                "value": 99.99,
+                                "label": "Sale"
+                            },
+                            "regular": {
+                                "value": 120,
+                                "label": "Reg."
+                            },
+                            "pricetype": "Limited-Time Special",
+                            "pricetypeid": 24,
+                            "onsale": true,
+                            "displayText": "Limited-Time Special",
+                            "pricingPolicyText": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                            "pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=24&daysInC=17957&ID=4382293",
+                            "onEdv": false,
+                            "percentageOff": 0,
+                            "percentageOffHigh": 0
+                        },
+                        "category": [
+                            {
+                                "id": 25122,
+                                "type": "homecategory"
+                            }
+                        ],
+                        "badges": {
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": true
+                        }
+                    },
+                    {
+                        "id": 8268116,
+                        "summary": {
+                            "name": "Sperry Women's Saltwater Duck Booties",
+                            "producttype": "SHOE",
+                            "brand": "Sperry",
+                            "onsale": true,
+                            "producturl": "http://www1.macys.com/shop/product/sperry-womens-saltwater-duck-booties?ID=8268116",
+                            "iscollection": false,
+                            "available": true,
+                            "customerrating": 4.7156,
+                            "productstartdays": 1681,
+                            "totalreviews": 218
+                        },
+                        "image": [
+                            {
+                                "imagetype": "PRIMARY_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/2266094_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "4/optimized/2266094_fpx",
+                                "colorized": true,
+                                "sequenceNumber": 0,
+                                "hasMoreColors": false,
+                                "numberColors": 1,
+                                "isPrimaryImage": true
+                            },
+                            {
+                                "imagetype": "ADDITIONAL_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/8027534_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "4/optimized/8027534_fpx",
+                                "sequenceNumber": 0
+                            },
+                            {
+                                "imagetype": "ADDITIONAL_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/9118236_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "6/optimized/9118236_fpx",
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 4236117,
+                                "colornormal": "Blue",
+                                "color": "Tan/Navy",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/8013779_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "9/optimized/8013779_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/8013780_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "0/optimized/8013780_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/8013781_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "1/optimized/8013781_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/8013782_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "2/optimized/8013782_fpx",
+                                        "sequenceNumber": 4
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/10079049_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "9/optimized/10079049_fpx",
+                                        "sequenceNumber": 5
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/2266094_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "4/optimized/2266094_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 1,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/1/optimized/3755791_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "1/optimized/3755791_fpx",
+                                    "sequenceNumber": 0
+                                }
+                            }
+                        ],
+                        "price": {
+                            "sale": {
+                                "value": 99.99,
+                                "label": "Sale"
+                            },
+                            "regular": {
+                                "value": 120,
+                                "label": "Reg."
+                            },
+                            "pricetype": "Limited-Time Special",
+                            "pricetypeid": 24,
+                            "onsale": true,
+                            "displayText": "Limited-Time Special",
+                            "pricingPolicyText": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                            "pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=24&daysInC=17957&ID=8268116",
+                            "onEdv": false,
+                            "percentageOff": 0,
+                            "percentageOffHigh": 0
+                        },
+                        "category": [
+                            {
+                                "id": 25122,
+                                "type": "homecategory"
+                            }
+                        ],
+                        "badges": {
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": true
+                        }
+                    },
+                    {
+                        "id": 1623718,
+                        "summary": {
+                            "name": "Calvin Klein Men's Brodie Oxford",
+                            "producttype": "SHOE",
+                            "brand": "Calvin Klein",
+                            "onsale": true,
+                            "producturl": "http://www1.macys.com/shop/product/calvin-klein-mens-brodie-oxford?ID=1623718",
+                            "iscollection": false,
+                            "available": true,
+                            "customerrating": 4.5856,
+                            "productstartdays": 1667,
+                            "totalreviews": 222
+                        },
+                        "image": [
+                            {
+                                "imagetype": "PRIMARY_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/1461435_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "5/optimized/1461435_fpx",
+                                "colorized": true,
+                                "sequenceNumber": 0,
+                                "hasMoreColors": true,
+                                "numberColors": 2,
+                                "isPrimaryImage": true
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 4374784,
+                                "colornormal": "Black",
+                                "color": "Black Patent",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/1749785_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "5/optimized/1749785_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/3943480_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "0/optimized/3943480_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/1749786_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "6/optimized/1749786_fpx",
+                                        "sequenceNumber": 3
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/1749784_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "4/optimized/1749784_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 6,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/7/optimized/1478957_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "7/optimized/1478957_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 1769836,
+                                "colornormal": "Black",
+                                "color": "Black",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/1461436_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "6/optimized/1461436_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/3943365_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "5/optimized/3943365_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/3943465_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "5/optimized/3943465_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/7/optimized/1461437_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "7/optimized/1461437_fpx",
+                                        "sequenceNumber": 4
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/1461435_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "5/optimized/1461435_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 5,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/0/optimized/344500_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "0/optimized/344500_fpx",
+                                    "sequenceNumber": 0
+                                }
+                            }
+                        ],
+                        "price": {
+                            "sale": {
+                                "value": 65.99,
+                                "label": "Sale"
+                            },
+                            "regular": {
+                                "value": 110,
+                                "label": "Reg."
+                            },
+                            "pricetype": "Limited-Time Special",
+                            "pricetypeid": 24,
+                            "onsale": true,
+                            "displayText": "Limited-Time Special",
+                            "pricingPolicyText": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                            "pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=24&daysInC=17957&ID=1623718",
+                            "onEdv": false,
+                            "percentageOff": 0,
+                            "percentageOffHigh": 0
+                        },
+                        "category": [
+                            {
+                                "id": 65,
+                                "type": "homecategory"
+                            }
+                        ],
+                        "badges": {
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": true
+                        }
+                    },
+                    {
+                        "id": 1836420,
+                        "summary": {
+                            "name": "Timberland Men's Groveton Hi-Top Sneakers, Created for Macy's",
+                            "producttype": "SHOE",
+                            "brand": "Timberland",
+                            "onsale": true,
+                            "producturl": "http://www1.macys.com/shop/product/timberland-mens-groveton-hi-top-sneakers-created-for-macys?ID=1836420",
+                            "iscollection": false,
+                            "available": true,
+                            "customerrating": 4.6542,
+                            "productstartdays": 1491,
+                            "totalreviews": 561
+                        },
+                        "image": [
+                            {
+                                "imagetype": "PRIMARY_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/10020349_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "9/optimized/10020349_fpx",
+                                "colorized": true,
+                                "sequenceNumber": 0,
+                                "hasMoreColors": true,
+                                "numberColors": 3,
+                                "isPrimaryImage": true
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 1719847,
+                                "colornormal": "Tan/Beige",
+                                "color": "Wheat",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/2645788_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "8/optimized/2645788_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/2645790_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "0/optimized/2645790_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/3981010_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "0/optimized/3981010_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/2645791_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "1/optimized/2645791_fpx",
+                                        "sequenceNumber": 4
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/10020349_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "9/optimized/10020349_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 0,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/9/optimized/2645789_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "9/optimized/2645789_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 2408513,
+                                "colornormal": "Black",
+                                "color": "Black",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/7/optimized/3637067_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "7/optimized/3637067_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/3637072_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "2/optimized/3637072_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/3/optimized/3637073_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "3/optimized/3637073_fpx",
+                                        "sequenceNumber": 3
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/10020349_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "9/optimized/10020349_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 2,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/4/optimized/3637074_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "4/optimized/3637074_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 3425154,
+                                "colornormal": "Blue",
+                                "color": "Midnight Navy",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/9860662_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "2/optimized/9860662_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/9860665_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "5/optimized/9860665_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/9860664_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "4/optimized/9860664_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/3/optimized/9860663_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "3/optimized/9860663_fpx",
+                                        "sequenceNumber": 4
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/7/optimized/9860667_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "7/optimized/9860667_fpx",
+                                        "sequenceNumber": 5
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/10020349_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "9/optimized/10020349_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 3,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/6/optimized/9860666_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "6/optimized/9860666_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            }
+                        ],
+                        "price": {
+                            "sale": {
+                                "value": 69.99,
+                                "label": "Sale"
+                            },
+                            "regular": {
+                                "value": 90,
+                                "label": "Reg."
+                            },
+                            "pricetype": "Limited-Time Special",
+                            "pricetypeid": 24,
+                            "onsale": true,
+                            "displayText": "Limited-Time Special",
+                            "pricingPolicyText": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                            "pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=24&daysInC=17957&ID=1836420",
+                            "onEdv": false,
+                            "percentageOff": 0,
+                            "percentageOffHigh": 0
+                        },
+                        "category": [
+                            {
+                                "id": 65,
+                                "type": "homecategory"
+                            }
+                        ],
+                        "badges": {
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": true
+                        }
+                    },
+                    {
+                        "id": 4855179,
+                        "summary": {
+                            "name": "G by GUESS Harson Tall Riding Boots",
+                            "producttype": "SHOE",
+                            "brand": "G by GUESS",
+                            "onsale": true,
+                            "producturl": "http://www1.macys.com/shop/product/g-by-guess-harson-tall-riding-boots?ID=4855179",
+                            "iscollection": false,
+                            "available": true,
+                            "customerrating": 4.1144,
+                            "productstartdays": 596,
+                            "totalreviews": 472
+                        },
+                        "image": [
+                            {
+                                "imagetype": "PRIMARY_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/8669839_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "9/optimized/8669839_fpx",
+                                "colorized": true,
+                                "sequenceNumber": 0,
+                                "hasMoreColors": true,
+                                "numberColors": 4,
+                                "isPrimaryImage": true
+                            },
+                            {
+                                "imagetype": "ADDITIONAL_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/9118068_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "8/optimized/9118068_fpx",
+                                "sequenceNumber": 0
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 2872746,
+                                "colornormal": "Black",
+                                "color": "Black",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/8669836_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "6/optimized/8669836_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/7/optimized/8669837_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "7/optimized/8669837_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/8669838_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "8/optimized/8669838_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/3/optimized/8669853_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "3/optimized/8669853_fpx",
+                                        "sequenceNumber": 4
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/8669834_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "4/optimized/8669834_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 1,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/5/optimized/8669835_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "5/optimized/8669835_fpx",
+                                    "sequenceNumber": 0
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 3563717,
+                                "colornormal": "Tan/Beige",
+                                "color": "Camel",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/8/optimized/10463928_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "8/optimized/10463928_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/10463929_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "9/optimized/10463929_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/0/optimized/10463930_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "0/optimized/10463930_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/10463931_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "1/optimized/10463931_fpx",
+                                        "sequenceNumber": 4
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/10463926_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "6/optimized/10463926_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 2,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/7/optimized/10463927_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "7/optimized/10463927_fpx",
+                                    "sequenceNumber": 0
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 3563718,
+                                "colornormal": "Multi",
+                                "color": "Black Suedette",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/10464014_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "4/optimized/10464014_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/5/optimized/10464015_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "5/optimized/10464015_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/10464016_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "6/optimized/10464016_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/7/optimized/10464017_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "7/optimized/10464017_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/10464012_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "2/optimized/10464012_fpx",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 3,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/3/optimized/10464013_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "3/optimized/10464013_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 2872745,
+                                "colornormal": "Brown",
+                                "color": "Brown",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/8669841_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "1/optimized/8669841_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/8669842_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "2/optimized/8669842_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/3/optimized/8669843_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "3/optimized/8669843_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/8669854_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "4/optimized/8669854_fpx",
+                                        "sequenceNumber": 4
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/9/optimized/8669839_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "9/optimized/8669839_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 0,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/0/optimized/8669840_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "0/optimized/8669840_fpx",
+                                    "sequenceNumber": 0
+                                }
+                            }
+                        ],
+                        "price": {
+                            "sale": {
+                                "value": 35,
+                                "label": "Sale"
+                            },
+                            "regular": {
+                                "value": 89,
+                                "label": "Reg."
+                            },
+                            "pricetype": "Limited-Time Special",
+                            "pricetypeid": 24,
+                            "onsale": true,
+                            "displayText": "Limited-Time Special",
+                            "pricingPolicyText": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                            "pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=24&daysInC=17957&ID=4855179",
+                            "onEdv": false,
+                            "percentageOff": 0,
+                            "percentageOffHigh": 0
+                        },
+                        "category": [
+                            {
+                                "id": 25122,
+                                "type": "homecategory"
+                            }
+                        ],
+                        "badges": {
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": true
+                        }
+                    },
+                    {
+                        "id": 1578614,
+                        "summary": {
+                            "name": "Tommy Hilfiger Men's Dathan Driver",
+                            "producttype": "SHOE",
+                            "brand": "Tommy Hilfiger",
+                            "onsale": true,
+                            "producturl": "http://www1.macys.com/shop/product/tommy-hilfiger-mens-dathan-driver?ID=1578614",
+                            "iscollection": false,
+                            "available": true,
+                            "customerrating": 4.4762,
+                            "productstartdays": 1665,
+                            "totalreviews": 147
+                        },
+                        "image": [
+                            {
+                                "imagetype": "PRIMARY_IMAGE",
+                                "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/9422886_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                "imagename": "6/optimized/9422886_fpx",
+                                "colorized": true,
+                                "sequenceNumber": 0,
+                                "hasMoreColors": true,
+                                "numberColors": 3,
+                                "isPrimaryImage": true
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 1484665,
+                                "colornormal": "Black",
+                                "color": "Black",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/4/optimized/2292504_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "4/optimized/2292504_fpx",
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/2292506_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "6/optimized/2292506_fpx",
+                                        "sequenceNumber": 2
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/8069272_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "2/optimized/8069272_fpx",
+                                        "sequenceNumber": 3
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/3/optimized/8069273_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "3/optimized/8069273_fpx",
+                                        "sequenceNumber": 4
+                                    },
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/7/optimized/2292507_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "7/optimized/2292507_fpx",
+                                        "sequenceNumber": 5
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/9422886_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "6/optimized/9422886_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 0,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/5/optimized/2292505_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "5/optimized/2292505_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 1510468,
+                                "colornormal": "Tan/Beige",
+                                "color": "Tan",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/1/optimized/2354751_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "1/optimized/2354751_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/9422886_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "6/optimized/9422886_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 2,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/2/optimized/2354752_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "2/optimized/2354752_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            },
+                            {
+                                "type": "colorwayImage",
+                                "imagetype": "COLORWAY",
+                                "id": 1617564,
+                                "colornormal": "Brown",
+                                "color": "Brown",
+                                "upcadditionalimage": [
+                                    {
+                                        "imagetype": "UPC_ADDITIONAL_IMAGE",
+                                        "imageurl": "https://slimages.macys.com/is/image/MCY/products/2/optimized/2475732_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                        "imagename": "2/optimized/2475732_fpx",
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/products/6/optimized/9422886_fpx.tif?bgc=255,255,255&wid=300&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                                    "imagename": "6/optimized/9422886_fpx",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 3,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imageurl": "https://slimages.macys.com/is/image/MCY/swatches/3/optimized/2475733_fpx.tif?wid=57&amp;fmt=jpeg",
+                                    "imagename": "3/optimized/2475733_fpx",
+                                    "sequenceNumber": 1
+                                }
+                            }
+                        ],
+                        "price": {
+                            "sale": {
+                                "value": 39.99,
+                                "label": "Sale"
+                            },
+                            "regular": {
+                                "value": 70,
+                                "label": "Reg."
+                            },
+                            "pricetype": "Limited-Time Special",
+                            "pricetypeid": 24,
+                            "onsale": true,
+                            "displayText": "Limited-Time Special",
+                            "pricingPolicyText": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                            "pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=24&daysInC=17957&ID=1578614",
+                            "onEdv": false,
+                            "percentageOff": 0,
+                            "percentageOffHigh": 0
+                        },
+                        "category": [
+                            {
+                                "id": 65,
+                                "type": "homecategory"
+                            }
+                        ],
+                        "badges": {
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": true
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "searchPass": "exactMultiMatch",
+    "searchProfile": "default",
+    "rdppRuleId": "105",
+    "boosterTypes": "BOOST ATTRIBUTE|BOOST SAVED SET"
+}
