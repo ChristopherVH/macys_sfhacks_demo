@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import response from '../mock/response.json';
+//import response from '../mock/response.json';
 import '../styles/SearchBar.css'
 
 class SearchBar extends Component {
@@ -16,19 +16,22 @@ class SearchBar extends Component {
   }
   handleKeyPress(event){
     if (event.key === "Enter"){
-      // fetch(`https://api.macys.com/v4/catalog/search?searchphrase=${this.state.searchText}`, {
-      //   headers: {
-      //     "x-macys-webservice-client-id": "h4ckathon",
-      //     "Accept": "application/json"
-      //   }
-      // })
-      // .then(function(response) {
-      //   this.props.updateProductsFromSearch(response.searchresultgroups[0].products.product);
-      // }).catch(function(error) {
-      //   console.log(error)
-      // })
-      this.props.updateProductsFromSearch(response.searchresultgroups[0].products.product);
-      console.log('fire enter event, this is where the api call would be made');
+    let data;
+    let updateProducts = this.props.updateProductsFromSearch;
+    function reqListener () {
+      console.log(this.responseText);
+      data = JSON.parse(this.responseText);
+      console.log(data);
+      updateProducts(data.searchresultgroups[0].products.product);
+    }
+    var request = new XMLHttpRequest();
+    request.addEventListener("load", reqListener);
+    request.open("GET", `https://api.macys.com/v4/catalog/search?searchphrase=${this.state.searchText}`);
+    request.setRequestHeader('Accept', 'application/json');
+    request.setRequestHeader('x-macys-webservice-client-id','h4ckathon');
+    request.send();
+    console.log('fire enter event, this is where the api call would be made');
+      // this.props.updateProductsFromSearch(data.searchresultgroups[0].products.product);
     }
   }
   render(){
